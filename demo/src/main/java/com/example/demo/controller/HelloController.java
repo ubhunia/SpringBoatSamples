@@ -12,7 +12,7 @@ public class HelloController {
 	public String hello()   		
 	{  
 		
-		return "Hello javaTpoint 123";  
+		return "Hello Controller";  
 		
 	}  
 }
